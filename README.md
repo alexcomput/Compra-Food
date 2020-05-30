@@ -6,6 +6,12 @@ App desenvolvido em Flutter. apenas o Front do app.
 ## Compre Food
 
 Projeto  de estudo baseado no tutorial do link abaixo;
+Aperfeiçoando o Flutter.
+
+
+<img src="https://github.com/alexcomput/Compra-Food/blob/master/assets/images/gif-app.gif?raw=true" />
+
+
 
 
 <p align="center">
@@ -13,4 +19,3 @@ Projeto  de estudo baseado no tutorial do link abaixo;
 </p>
 
 
-Aperfeiçoar estudo em Flutter.
